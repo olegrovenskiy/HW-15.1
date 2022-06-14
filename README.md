@@ -16,15 +16,15 @@ VMs
 
 ВМ тест-о без публичного IP адреса
 
-![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/1.png)
+![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/vms.png)
 
 Networks
 
-![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/3.png)
+![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/network.png)
 
 Routing table
 
-![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/4.png)
+![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/routing.png)
 
 
 
