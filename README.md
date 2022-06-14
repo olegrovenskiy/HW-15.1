@@ -6,7 +6,7 @@
 
 
 
-![1]([(https://github.com/olegrovenskiy/HW-15.1/blob/main/1.png)])
+![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/1.png)
 
 
 
