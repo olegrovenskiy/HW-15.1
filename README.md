@@ -9,7 +9,7 @@
 ![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/1.png)
 
 
-![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/2.png)
+![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/3.png)
 
 ![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/4.png)
 
