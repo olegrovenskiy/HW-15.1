@@ -14,7 +14,7 @@
 
 VMs
 
-ВМ тест-о без публичного IP адреса
+ВМ private без публичного IP адреса
 
 ![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/vms.png)
 
