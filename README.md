@@ -27,6 +27,8 @@ Routing table
 ![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/routing.png)
 
 
+Доступность сети Интернет
+
 
 ![sonar1](https://github.com/olegrovenskiy/HW-15.1/blob/main/5.png)
 
